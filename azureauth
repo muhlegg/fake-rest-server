@@ -1,0 +1,60 @@
+{
+	".auth": {
+		"me": [{
+			"id_token": "",
+			"provider_name": "aad",
+			"user_claims": [{
+					"typ": "aud",
+					"val": "b0d98666-c6b6-44d6-820f-80224b13a192"
+				},
+				{
+					"typ": "http:\/\/schemas.microsoft.com\/claims\/authnmethodsreferences",
+					"val": "pwd"
+				},
+				{
+					"typ": "http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/surname",
+					"val": "Holmberg"
+				},
+				{
+					"typ": "http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/givenname",
+					"val": "Filip"
+				},
+				{
+					"typ": "ipaddr",
+					"val": "88.192.30.111"
+				}, {
+					"typ": "name",
+					"val": "Filip Holmberg"
+				},
+				{
+					"typ": "nonce",
+					"val": "c2a4f29d06c4428482cf24eb0749c6df_20181218175316"
+				},
+				{
+					"typ": "http:\/\/schemas.microsoft.com\/identity\/claims\/objectidentifier",
+					"val": "01618b60-d8cf-4577-910c-e03ead66c004"
+				},
+				{
+					"typ": "http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/nameidentifier",
+					"val": "y0V5n3mO1RZ4jhawxUIeUMT-kl3N88HfNAkBrQKssAk"
+				},
+				{
+					"typ": "http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/name",
+					"val": "Filip.Holmberg@markkinointirouta.fi"
+				},
+				{
+					"typ": "http:\/\/schemas.xmlsoap.org\/ws\/2005\/05\/identity\/claims\/upn",
+					"val": "Filip.Holmberg@markkinointirouta.fi"
+				},
+				{
+					"typ": "uti",
+					"val": "pT1pG47jZk-1VcJLf58qAA"
+				}, {
+					"typ": "ver",
+					"val": "1.0"
+				}
+			],
+			"user_id": "Filip.Holmberg@markkinointirouta.fi"
+		}]
+	}
+}
